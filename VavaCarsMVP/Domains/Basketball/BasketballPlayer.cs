@@ -4,7 +4,7 @@ namespace VavaCarsMVP.Domains.Basketball;
 
 public class BasketballPlayer : Player
 {
-    // customized feature for handball player
+    // customized feature for basketball player
     public int ScoredPoints { get; set; }
     public int Rebounds { get; set; }
     public int Assists { get; set; }
